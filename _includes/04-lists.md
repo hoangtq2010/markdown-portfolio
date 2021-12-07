@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Emoji are fun :sparkles:
+3. Ordered Lists
+* Unordered Lists
+  * Unordered Lists 1
